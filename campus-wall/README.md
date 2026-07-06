@@ -2,23 +2,6 @@
 
 树洞 / 游戏车队 / 二手集市 / 问答 / 生存手册 / 课程评价 / 文明观察台 / 治理公示 / 校园活动 / 失物招领 / 私信 / 公告 —— 全部板块均有真实后端。前端为桌面 + 手机端自适应单页，后端为 FastAPI + SQLite。
 
-## 前端预览
-
-![image-20260706194125289](C:\Users\lu lu\AppData\Roaming\Typora\typora-user-images\image-20260706194125289.png)
-
-![image-20260706194213358](C:\Users\lu lu\AppData\Roaming\Typora\typora-user-images\image-20260706194213358.png)
-
-![image-20260706194222599](C:\Users\lu lu\AppData\Roaming\Typora\typora-user-images\image-20260706194222599.png)
-
-![image-20260706194428193](C:\Users\lu lu\AppData\Roaming\Typora\typora-user-images\image-20260706194428193.png)
-
-![image-20260706194321233](C:\Users\lu lu\AppData\Roaming\Typora\typora-user-images\image-20260706194321233.png)
-
-![image-20260706194441016](C:\Users\lu lu\AppData\Roaming\Typora\typora-user-images\image-20260706194441016.png)
-
-![image-20260706194513131](C:\Users\lu lu\AppData\Roaming\Typora\typora-user-images\image-20260706194513131.png)
-
-![image-20260706194529106](C:\Users\lu lu\AppData\Roaming\Typora\typora-user-images\image-20260706194529106.png)
 
 ## 目录结构
 
